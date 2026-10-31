@@ -120,7 +120,7 @@ in one of your repositories.
 **Claude Code**
 
 ```sh
-git clone https://github.com/microsoft/TokenEconomizer.git
+git clone https://github.com/aamvtrampa36-del/TokenEconomizer.git
 claude plugin marketplace add "$PWD/TokenEconomizer"
 claude plugin install tokeneconomizer@tokeneconomizer
 ```
@@ -132,7 +132,7 @@ Code updates, run `/tokeneconomizer:toolprune refresh-catalog`.
 **Codex**
 
 ```sh
-git clone https://github.com/microsoft/TokenEconomizer.git
+git clone https://github.com/aamvtrampa36-del/TokenEconomizer.git
 codex plugin marketplace add "$PWD/TokenEconomizer"
 codex plugin add tokeneconomizer@tokeneconomizer
 ```
@@ -144,7 +144,7 @@ choose **Trust all and continue**. The hooks take effect from your next Codex se
 **Copilot CLI**
 
 ```sh
-git clone https://github.com/microsoft/TokenEconomizer.git
+git clone https://github.com/aamvtrampa36-del/TokenEconomizer.git
 copilot plugin marketplace add "$PWD/TokenEconomizer"
 copilot plugin install tokeneconomizer@tokeneconomizer
 ```
@@ -156,7 +156,7 @@ Copilot updates, run `/tokeneconomizer:toolprune refresh-catalog`.
 **Pi**
 
 ```sh
-pi install git:github.com/microsoft/TokenEconomizer
+pi install git:github.com/aamvtrampa36-del/TokenEconomizer
 ```
 
 Start `pi` and run `/te status`.
@@ -164,7 +164,7 @@ Start `pi` and run `/te status`.
 **opencode** (experimental)
 
 ```sh
-git clone https://github.com/microsoft/TokenEconomizer.git
+git clone https://github.com/aamvtrampa36-del/TokenEconomizer.git
 mkdir -p ~/.config/opencode/plugins
 ln -s "$PWD/TokenEconomizer/plugin/opencode/tokeneconomizer.ts" ~/.config/opencode/plugins/
 ```
