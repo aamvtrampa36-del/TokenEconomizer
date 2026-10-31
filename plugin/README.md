@@ -24,7 +24,7 @@ No extra API key is needed. Plugins load when a session starts, so start a new s
 installing. Claude Code, Codex and the Copilot CLI install from a clone of this repository:
 
 ```bash
-git clone https://github.com/microsoft/TokenEconomizer.git
+git clone https://github.com/aamvtrampa36-del/TokenEconomizer.git
 ```
 
 Keep the clone where it is: the installed plugin runs from it.
@@ -272,7 +272,7 @@ history.
 **1. Install.** The repository is a Pi package, so Pi installs it like any other:
 
 ```bash
-pi install git:github.com/microsoft/TokenEconomizer
+pi install git:github.com/aamvtrampa36-del/TokenEconomizer
 ```
 
 (Over SSH: `pi install git:git@github.com:microsoft/TokenEconomizer`. From a clone:
